@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QA_Integration_Task": {
+      "commandName": "Project",
+      "commandLineArgs": "-s \"C:\\Users\\Zanet\\SourceFolder\" -r \"C:\\Users\\Zanet\\ReplicaFolder\" -i 30 -l \"C:\\Users\\Zanet\\OneDrive\\Ambiente de Trabalho\\QA_Task\\QA_Integration_Task\\NLog.config\"\r\n"
+    }
+  }
+}
